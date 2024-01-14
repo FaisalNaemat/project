@@ -1,0 +1,34 @@
+Dr.SaifAbuAisheh
+Student ID:202210148
+Faisal Abd-Alsalam Naemat 
+
+The project I've developed is a Task Tracker, a Python application designed to assist individuals in managing and tracking their daily tasks and to-do lists. This task tracker incorporates object-oriented programming principles for code organization and modularity. It employs various data structures, including lists for storing tasks and dictionaries for associating tasks with additional details. The application utilizes loops for efficient navigation through tasks, user-defined functions for task management, built-in functions for file read and write operations, and comprehensive exception handling for error management. The graphical user interface (GUI) is implemented using the Tkinter library, providing an intuitive platform for users to interact with the task tracker.
+
+Requirements:
+
+Object-Oriented Design:
+
+The program is structured using object-oriented principles, with classes representing the task tracker and individual task entries.
+Data Structures:
+
+Lists are used to store tasks, and dictionaries are employed to associate each task with details such as priority, due date, and description.
+Loops:
+
+Loops are utilized for iterating through task entries, facilitating efficient navigation and task management.
+User-Defined Functions:
+
+Custom functions are implemented for adding new tasks, marking tasks as completed, viewing the task list, and deleting tasks.
+Built-In Functions:
+
+Python's built-in functions are used for reading and writing task data to and from a file, ensuring persistence and accessibility.
+Exception Handling:
+
+The program includes robust exception handling to gracefully manage errors, providing informative messages to the user in case of unexpected situations (e.g., file not found, invalid task format).
+GUI Interface (Tkinter):
+
+The graphical user interface is created using Tkinter, offering an intuitive and visually appealing environment for users to interact with the task tracker.
+File Read and Write:
+
+The application reads task data from a file on startup and allows users to save their tasks to a file, ensuring that task information is preserved between sessions.
+
+Tkinter :Tkinter is a Python library that can be used to construct basic graphical user interface (GUI) applications. 
